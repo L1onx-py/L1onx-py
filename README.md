@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Elion Junior 🖐️
-💻 Estudante iniciante de programção, apaixonado por conhecer novas tecnologias e habilidades.
+💻 Estudante iniciante de programção, apaixonado por conhecer novas tecnologias e desenvolver novas habilidades.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elionjunior.ffc/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elion-camilo-da-silva-junior-13332632b/)
