@@ -13,7 +13,7 @@
 
 <td width="60%" valign="top">
 
-<strong>🌅 A minha jornada como programador começou quando eu tinha 15 anos com projetos de desenvolvimento fornt-end e alguns projetos como GameDev. Atualmente sou estudante na Universidade Federal da Paraíba no curso de Sistemas de Informação do 4° Período, recentemente venho me aprimorando como Desenvolvedor Web .</strong>
+<strong>🌅 A minha jornada como programador começou quando eu tinha 15 anos com projetos de desenvolvimento front-end e alguns projetos como GameDev. Atualmente, sou estudante na Universidade Federal da Paraíba, na graduação de Sistemas de Informação, cursando o 4° Período, onde venho aprimorando meu conhecimento teórico e prático. Recentemente tenho tido como foco aprimorar minhas habilidades como Desenvolvedor Web.</strong>
 <br><br>
 
 <strong>🌙 Minha meta futura é conseguir atuar na área como Desenvolvedor Full Stack.</strong>
