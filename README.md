@@ -13,16 +13,16 @@
 
 <td width="60%" valign="top">
 
-<strong>🌅 A minha jornada como programador começou quando eu tinha 15 anos com projetos de desenvolvimento front-end e alguns projetos como GameDev. Atualmente, sou estudante na Universidade Federal da Paraíba, na graduação de Sistemas de Informação, cursando o 4° Período, onde venho aprimorando meu conhecimento teórico e prático. Recentemente tenho tido como foco aprimorar minhas habilidades como Desenvolvedor Web.</strong>
+<strong>👨‍💻 A minha jornada como programador começou quando eu tinha 15 anos com projetos de desenvolvimento front-end e alguns projetos como GameDev. Atualmente, sou estudante na Universidade Federal da Paraíba, na graduação de Sistemas de Informação, cursando o 4° Período, onde venho aprimorando meu conhecimento teórico e prático. Recentemente, tenho focado em aprimorar minhas habilidades como Desenvolvedor Web.</strong>
 <br><br>
 
-<strong>🌙 Minha meta futura é conseguir atuar na área como Desenvolvedor Full Stack.</strong>
+<strong>🎯 Minha meta é conseguir atuar na área como Desenvolvedor Full Stack.</strong>
 <br><br>
 
-<strong>🛠️ Tenho experiência moderada com HTML, CSS, JavaScript, Python e Java. Também tenho grande interesse em tecnologias como automação com chatbots e IA, otimização, interfaces UX e tudo que envolve inovação. Em cada projeto procuro aplicar novas tecnologias e conhecimentos.</strong>
+<strong>🛠️ Tenho experiência moderada com HTML, CSS, JavaScript, Python e Java. Também tenho grande interesse em tecnologias como automação com chatbots e IA, otimização, design de interfaces e experiência do usuário (UX/UI) e tudo que envolve inovação. Em cada projeto, procuro aplicar novas tecnologias e conhecimentos.</strong>
 <br><br>
 
-<strong>💬 Pode me perguntar sobre desenvolvimento web, estudos de programação, ferramentas de desenvolvimento e sobre como estou estruturando minha evolução na área.</strong>
+<strong>💬 Estou aberto a perguntas sobre desenvolvimento web, estudos de programação, ferramentas de desenvolvimento e sobre como estou estruturando minha evolução na área.</strong>
 <br><br>
 
 <h3 align="center">📬 Entre em Contato Comigo:</h3>
