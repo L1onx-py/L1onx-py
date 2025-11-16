@@ -2,9 +2,22 @@
 
 <h1 align="center">👋 Olá! Eu sou o Elion Camilo</h1>
 
-<p align="center">
-  <em>Sou um estudante do curso de Sistema de Informação na Universidade Federal da Paraíba, sou um desenvolvedor web iniciante apaixonado por tecnologia, aprendizado contínuo e desafios que me fazem evoluir.</em>
-</p>
+## 🚀 Sobre mim  
+
+🌅 Comecei minha jornada no desenvolvimento explorando o mundo da Web e seus infinitos caminhos.
+
+🌙 Trabalho principalmente com desenvolvimento front-end e estou sempre criando interfaces enquanto aprendo mais sobre lógica e boas práticas de programação.
+
+🎓 Atualmente curso Sistema de Informação na Universidade Federal da Paraíba, onde venho fortalecendo minha base teórica e prática.
+
+🛠️ Tenho experiência com HTML, CSS, JavaScript, além de estudar Python e Java para expandir minhas habilidades.
+
+💬 Pode me perguntar sobre desenvolvimento web, estudos de programação, ferramentas de desenvolvimento e como estou estruturando meu avanço na área.
+
+🤖 Tenho grande interesse em tecnologias, automação, produtividade, criação de interfaces e tudo que envolve inovação.
+
+✨ Busco evolução constante — um pouco todos os dias — e valorizo o cuidado, a estética e a perfeição nos meus projetos.
+
 
 ---
 
