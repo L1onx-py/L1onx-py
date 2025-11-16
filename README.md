@@ -13,28 +13,25 @@
 
 <td width="60%" valign="top">
 
-<strong>🌅 Comecei minha jornada no desenvolvimento back-end e hoje estou explorando o mundo do desenvolvimento web com entusiasmo.</strong>
+<strong>🌅 A minha jornada como programador começou quando eu tinha 15 anos com projetos de desenvolvimento fornt-end e alguns projetos como GameDev. Atualmente sou estudante na Universidade Federal da Paraíba no curso de Sistemas de Informação do 4° Período, recentemente venho me aprimorando como Desenvolvedor Web .</strong>
 <br><br>
 
-<strong>🌙 Atualmente trabalho como desenvolvedor front-end, criando interfaces enquanto aprimoro minhas habilidades em lógica e boas práticas de programação.</strong>
+<strong>🌙 Minha meta futura é conseguir atuar na área como Desenvolvedor Full Stack.</strong>
 <br><br>
 
-<strong>🎓 Curso Sistema de Informação na Universidade Federal da Paraíba, fortalecendo minha base teórica e prática.</strong>
-<br><br>
-
-<strong>🛠️ Tenho experiência com HTML, CSS e JavaScript, além de estudar Python e Java para expandir minhas capacidades.</strong>
+<strong>🛠️ Tenho experiência moderada com HTML, CSS, JavaScript, Python e Java. Em cada projeto procuro aplicar novas tecnologias e conhecimentos.</strong>
 <br><br>
 
 <strong>💬 Pode me perguntar sobre desenvolvimento web, estudos de programação, ferramentas de desenvolvimento e sobre como estou estruturando minha evolução na área.</strong>
 <br><br>
 
-<strong>🤖 Tenho grande interesse em tecnologias, automação, produtividade, criação de interfaces e tudo que envolve inovação.</strong>
+<strong>🤖 Tenho grande interesse em tecnologias como automação com chatbots e IA, otimização, interfaces UX e tudo que envolve inovação.</strong>
 <br><br>
 
-<strong>✨ Busco evolução constante — um pouco todos os dias — e valorizo o cuidado, a estética e a perfeição nos meus projetos.</strong>
+<strong>✨ Busco evolução constante — valorizo o cuidado e estética nos meus projetos.</strong>
 <br><br>
 
-<h3 align="center">📬 Reach Me On:</h3>
+<h3 align="center">📬 Entre em Contato Comigo:</h3>
 
 <p align="center">
 <a href="mailto:seuemail@gmail.com">
