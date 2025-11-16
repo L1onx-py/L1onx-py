@@ -14,7 +14,7 @@
 
 
 👨‍💻 Minha jornada como programador começou aos 15 anos com <strong>front-end</strong> e <strong>GameDev</strong>.
-<br>
+<br><br>
 🎓 Atualmente, curso o 4° Período de <strong>Sistemas de Informação</strong> na <strong>UFPB</strong>.
 <br>
 💡 Foco recente em aprimorar minhas habilidades como <strong>Desenvolvedor Web</strong>.
@@ -33,11 +33,11 @@
 <h3 align="center">📬 Entre em Contato Comigo:</h3>
 
 <p align="center">
-<a href="mailto:seuemail@gmail.com">
+<a href="mailto:juniorelion.rj@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/seu-usuario">
+<a href="(https://www.linkedin.com/in/elion-camilo-universit%C3%A1rio-%F0%9F%8E%93%F0%9F%92%BB-13332632b/)">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
