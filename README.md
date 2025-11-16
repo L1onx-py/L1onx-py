@@ -1,7 +1,7 @@
 # 👋 Oi! Eu sou o Negugu Maia  
 ### Presidente da Câmara Municipal de Pirpirituba · QA · Desenvolvedor  
 ---
-
+https://i.pinimg.com/1200x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg
 > “Transformando código, automação e visão cristã em impacto para pessoas.”  
 
 📍 Campina Grande / PB • Brasil  
