@@ -3,7 +3,7 @@
 <h1 align="center">👋 Olá! Eu sou o Elion Camilo</h1>
 
 <p align="center">
-  <em>Desenvolvedor iniciante apaixonado por tecnologia, aprendizado contínuo e desafios que me fazem evoluir.</em>
+  <em>Estudante do curso de Sistema de Informação na Universidade Federal da Paraíba, sou um desenvolvedor iniciante apaixonado por tecnologia, aprendizado contínuo e desafios que me fazem evoluir.</em>
 </p>
 
 ---
