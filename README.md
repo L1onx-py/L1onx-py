@@ -1,4 +1,5 @@
-![banner](https://i.pinimg.com/736x/90/26/45/9026455e768e02ca685c81bae2e7f1ba.jpg)
+![banner](<img width="1200" height="549" alt="image" src="https://github.com/user-attachments/assets/9807d1b0-5d83-4ccf-aedd-a3aa59765db3" />
+)
 
 <h1 align="center">👋 Olá! Eu sou o Elion Camilo</h1>
 
