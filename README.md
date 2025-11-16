@@ -10,7 +10,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="60%" valign="top" style="line-height: 1.6;">
 
 👨‍💻 Minha jornada como programador começou aos 15 anos com <strong>front-end</strong> e <strong>GameDev</strong>.
 <br>
