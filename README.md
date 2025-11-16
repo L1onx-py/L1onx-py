@@ -4,28 +4,52 @@
 
 ---
 
-## 🚀 Sobre mim  
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/glowing-star_1f31f.png" width="22" /> Sobre mim
 
-🌅 Comecei minha jornada no desenvolvimento back-end e hoje estou explorando o mundo do desenvolvimento web com entusiasmo.  
+<table>
+  <tr>
+    <!-- TEXT LEFT SIDE -->
+    <td width="60%" valign="top">
 
-🌙 Atualmente trabalho como desenvolvedor front-end, criando interfaces enquanto aprimoro minhas habilidades em lógica e boas práticas de programação.  
+      🌅 Comecei minha jornada no desenvolvimento back-end e hoje estou explorando o mundo do desenvolvimento web com entusiasmo.<br><br>
 
-🎓 Curso Sistema de Informação na Universidade Federal da Paraíba, fortalecendo minha base teórica e prática.  
+      🌙 Atualmente trabalho como desenvolvedor front-end, criando interfaces enquanto aprimoro minhas habilidades em lógica e boas práticas de programação.<br><br>
 
-🛠️ Tenho experiência com HTML, CSS e JavaScript, além de estudar Python e Java para expandir minhas capacidades.  
+      🎓 Curso Sistema de Informação na Universidade Federal da Paraíba, fortalecendo minha base teórica e prática.<br><br>
 
-💬 Pode me perguntar sobre desenvolvimento web, estudos de programação, ferramentas de desenvolvimento e sobre como estou estruturando minha evolução na área.  
+      🛠️ Tenho experiência com HTML, CSS e JavaScript, além de estudar Python e Java para expandir minhas capacidades.<br><br>
 
-🤖 Tenho grande interesse em tecnologias, automação, produtividade, criação de interfaces e tudo que envolve inovação.  
+      💬 Pode me perguntar sobre desenvolvimento web, estudos de programação, ferramentas de desenvolvimento e sobre como estou estruturando minha evolução na área.<br><br>
 
-✨ Busco evolução constante — um pouco todos os dias — e valorizo o cuidado, a estética e a perfeição nos meus projetos.  
+      🤖 Tenho grande interesse em tecnologias, automação, produtividade, criação de interfaces e tudo que envolve inovação.<br><br>
+
+      ✨ Busco evolução constante — um pouco todos os dias — e valorizo o cuidado, a estética e a perfeição nos meus projetos.<br><br>
+
+      <!-- CONTACT SECTION -->
+      <h3>📬 Reach Me On:</h3>
+
+      <a href="mailto:seuemail@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+
+      <a href="https://linkedin.com">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+
+    </td>
+
+    <!-- IMAGE RIGHT SIDE -->
+    <td width="40%" align="center">
+      <img src="https://i.pinimg.com/736x/31/78/fc/3178fcd57f8452ad6f30cd3b7fe41eee.jpg" width="320" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🧰 Minhas Stacks
 
 <p align="center">
-
   <img src="https://skillicons.dev/icons?i=html" width="50" />
   <img src="https://skillicons.dev/icons?i=css" width="50" />
   <img src="https://skillicons.dev/icons?i=js" width="50" />
@@ -33,7 +57,6 @@
   <img src="https://skillicons.dev/icons?i=java" width="50" />
   <img src="https://skillicons.dev/icons?i=vscode" width="50" />
   <img src="https://skillicons.dev/icons?i=idea" width="50" />
-
 </p>
 
 ---
@@ -50,7 +73,7 @@
 
 ---
 
-## 🌱 O que estou aprendendo no momento  
+## 🌱 O que estou aprendendo no momento
 
 - Aprimorando JavaScript  
 - Praticando responsividade com CSS3  
@@ -59,13 +82,3 @@
 
 ---
 
-
-## 📬 Como falar comigo  
-📧 **seuemail@gmail.com**  
-💬 Sempre aberto a trocar ideias, aprender mais e colaborar em novos projetos!
-
----
-
-<p align="center">
-  <em>“A evolução acontece um commit por vez.”</em>
-</p>
