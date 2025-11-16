@@ -19,16 +19,10 @@
 <strong>🌙 Minha meta futura é conseguir atuar na área como Desenvolvedor Full Stack.</strong>
 <br><br>
 
-<strong>🛠️ Tenho experiência moderada com HTML, CSS, JavaScript, Python e Java. Em cada projeto procuro aplicar novas tecnologias e conhecimentos.</strong>
+<strong>🛠️ Tenho experiência moderada com HTML, CSS, JavaScript, Python e Java. Também tenho grande interesse em tecnologias como automação com chatbots e IA, otimização, interfaces UX e tudo que envolve inovação. Em cada projeto procuro aplicar novas tecnologias e conhecimentos.</strong>
 <br><br>
 
 <strong>💬 Pode me perguntar sobre desenvolvimento web, estudos de programação, ferramentas de desenvolvimento e sobre como estou estruturando minha evolução na área.</strong>
-<br><br>
-
-<strong>🤖 Tenho grande interesse em tecnologias como automação com chatbots e IA, otimização, interfaces UX e tudo que envolve inovação.</strong>
-<br><br>
-
-<strong>✨ Busco evolução constante — valorizo o cuidado e estética nos meus projetos.</strong>
 <br><br>
 
 <h3 align="center">📬 Entre em Contato Comigo:</h3>
