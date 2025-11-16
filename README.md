@@ -57,7 +57,7 @@
 
 ---
 
-<h2 align="center">🧰 Ferramentas e Tecnologias que eu uso </h2>
+<h2 align="center">🧰 Ferramentas & Tecnologias Que Eu Faço Uso</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" width="50" />
@@ -67,6 +67,35 @@
   <img src="https://skillicons.dev/icons?i=java" width="50" />
   <img src="https://skillicons.dev/icons?i=vscode" width="50" />
   <img src="https://skillicons.dev/icons?i=idea" width="50" />
+</p>
+
+---
+
+<h3 align="center">💻 Tech Stack</h3>
+
+<p align="center">
+
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+
+  <!-- VSCode -->
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+  <!-- IntelliJ -->
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+
 </p>
 
 ---
