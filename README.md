@@ -3,32 +3,44 @@
 <h1 align="center">👋 Olá! Eu sou o Elion Camilo</h1>
 
 <p align="center">
-  <em>Estudante do curso de Sistema de Informação na Universidade Federal da Paraíba, sou um desenvolvedor iniciante apaixonado por tecnologia, aprendizado contínuo e desafios que me fazem evoluir.</em>
+  <em>Sou um estudante do curso de Sistema de Informação na Universidade Federal da Paraíba, sou um desenvolvedor web iniciante apaixonado por tecnologia, aprendizado contínuo e desafios que me fazem evoluir.</em>
 </p>
 
 ---
 
 ## 🚀 Sobre mim  
-Sou um entusiasta do desenvolvimento web e estou sempre explorando novas tecnologias, ideias e projetos.  
-Gosto de entender como as coisas funcionam por trás das telas e transformar imaginação em código.  
+Sou interessado na área de desenvolvimento web e estou sempre explorando novas tecnologias, ideias e projetos.  
+Gosto de entender como as coisas funcionam por trás das telas e transformar ideias em código.  
 Busco crescer como desenvolvedor e aprender algo novo todos os dias.
 
 ---
 
-## 🧰 Tecnologias & Ferramentas que uso
+## 🧰 Minhas Stacks
 
-### 💻 Linguagens e desenvolvimento
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
 
-### 🌐 Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  <!-- HTML -->
+  <img src="https://skillicons.dev/icons?i=html" width="50" />
 
-### 🛠️ Ferramentas
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  <!-- CSS -->
+  <img src="https://skillicons.dev/icons?i=css" width="50" />
+
+  <!-- JavaScript -->
+  <img src="https://skillicons.dev/icons?i=js" width="50" />
+
+  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=python" width="50" />
+
+  <!-- Java -->
+  <img src="https://skillicons.dev/icons?i=java" width="50" />
+
+  <!-- VSCode -->
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" />
+
+  <!-- IntelliJ -->
+  <img src="https://skillicons.dev/icons?i=idea" width="50" />
+
+</p>
 
 ---
 
