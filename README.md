@@ -57,7 +57,7 @@
 
 ---
 
-<h2 align="center">🧰 Minhas Stacks</h2>
+<h2 align="center">🧰 Ferramentas e Tecnologias que eu uso </h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" width="50" />
