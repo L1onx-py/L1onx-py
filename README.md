@@ -10,19 +10,23 @@
 
 <table>
 <tr>
-
 <td width="60%" valign="top">
 
-<strong>👨‍💻 A minha jornada como programador começou quando eu tinha 15 anos com projetos de desenvolvimento front-end e alguns projetos como GameDev. Atualmente, sou estudante na Universidade Federal da Paraíba, na graduação de Sistemas de Informação, cursando o 4° Período, onde venho aprimorando meu conhecimento teórico e prático. Recentemente, tenho focado em aprimorar minhas habilidades como Desenvolvedor Web.</strong>
+👨‍💻 Minha jornada como programador começou aos 15 anos com front-end e GameDev.
+<br>
+🎓 Atualmente, curso o 4° Período de Sistemas de Informação na UFPB.
+<br>
+💡 Foco recente em aprimorar minhas habilidades como Desenvolvedor Web.
 <br><br>
-
-<strong>🎯 Minha meta é conseguir atuar na área como Desenvolvedor Full Stack.</strong>
+🎯 Minha meta é atuar na área como Desenvolvedor Full Stack.
 <br><br>
-
-<strong>🛠️ Tenho experiência moderada com HTML, CSS, JavaScript, Python e Java. Também tenho grande interesse em tecnologias como automação com chatbots e IA, otimização, design de interfaces e experiência do usuário (UX/UI) e tudo que envolve inovação. Em cada projeto, procuro aplicar novas tecnologias e conhecimentos.</strong>
+🛠️ Tenho experiência com HTML, CSS, JavaScript, Python e Java.
+<br>
+🚀 Grande interesse em automação, IA, otimização e design (UX/UI).
+<br>
+✨ Em cada projeto, procuro aplicar novas tecnologias e conhecimentos.
 <br><br>
-
-<strong>💬 Estou aberto a perguntas sobre desenvolvimento web, estudos de programação, ferramentas de desenvolvimento e sobre como estou estruturando minha evolução na área.</strong>
+💬 Estou aberto a perguntas sobre dev web, estudos, ferramentas e minha evolução na área.
 <br><br>
 
 <h3 align="center">📬 Entre em Contato Comigo:</h3>
