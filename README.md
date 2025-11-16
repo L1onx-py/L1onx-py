@@ -1,12 +1,12 @@
-![banner](https://i.pinimg.com/1200x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg)
+,![banner](https://i.pinimg.com/1200x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg)
 
 <h1 align="center">👋 Olá! Eu sou o Elion Camilo</h1>
 
 ## 🚀 Sobre mim  
 
-🌅 Comecei minha jornada no desenvolvimento explorando o mundo da Web e seus infinitos caminhos.
+🌅 Comecei minha jornada no desenvolvimento back-end e agora estou explorando o mundo de desenvolvimento Web.
 
-🌙 Trabalho principalmente com desenvolvimento front-end e estou sempre criando interfaces enquanto aprendo mais sobre lógica e boas práticas de programação.
+🌙 Atualmente rabalho principalmente com desenvolvimento front-end e estou sempre criando interfaces enquanto aprendo mais sobre lógica e boas práticas de programação.
 
 🎓 Atualmente curso Sistema de Informação na Universidade Federal da Paraíba, onde venho fortalecendo minha base teórica e prática.
 
@@ -20,11 +20,6 @@
 
 
 ---
-
-## 🚀 Sobre mim  
-Sou interessado na área de desenvolvimento web e estou sempre explorando novas tecnologias, ideias e projetos.  
-Gosto de entender como as coisas funcionam por trás das telas e transformar ideias em código.  
-Busco crescer como desenvolvedor e aprender algo novo todos os dias.
 
 ---
 
