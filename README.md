@@ -4,49 +4,74 @@
 
 ---
 
-<img src="https://em-content.zobj.net/source/microsoft-teams/363/glowing-star_1f31f.png" width="22" /> Sobre mim
-<table> <tr> <td width="60%" valign="top">
+<h2 align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/glowing-star_1f31f.png" width="22" /> Sobre mim
+</h2>
 
-🌅 Comecei minha jornada no desenvolvimento back-end e hoje estou explorando o mundo do desenvolvimento web com entusiasmo.
-<br>
+<table>
+<tr>
 
-🌙 Atualmente trabalho como desenvolvedor front-end, criando interfaces enquanto aprimoro minhas habilidades em lógica e boas práticas de programação.
-<br>
+<td width="60%" valign="top">
 
-🎓 Curso Sistema de Informação na Universidade Federal da Paraíba, fortalecendo minha base teórica e prática.
-<br>
-
-🛠️ Tenho experiência com HTML, CSS e JavaScript, além de estudar Python e Java para expandir minhas capacidades.
-<br>
-
-💬 Pode me perguntar sobre desenvolvimento web, estudos de programação, ferramentas de desenvolvimento e sobre como estou estruturando minha evolução na área.
-<br>
-
-🤖 Tenho grande interesse em tecnologias, automação, produtividade, criação de interfaces e tudo que envolve inovação.
-<br>
-
-✨ Busco evolução constante — um pouco todos os dias — e valorizo o cuidado, a estética e a perfeição nos meus projetos.
+<strong>🌅 Comecei minha jornada no desenvolvimento back-end e hoje estou explorando o mundo do desenvolvimento web com entusiasmo.</strong>
 <br><br>
 
-<h3>📬 Reach Me On:</h3> <a href="mailto:seuemail@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/seu-usuario"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </td> <td width="40%" align="center"> <img src="https://i.pinimg.com/736x/31/78/fc/3178fcd57f8452ad6f30cd3b7fe41eee.jpg" width="320" /> </td> </tr> </table>
+<strong>🌙 Atualmente trabalho como desenvolvedor front-end, criando interfaces enquanto aprimoro minhas habilidades em lógica e boas práticas de programação.</strong>
+<br><br>
+
+<strong>🎓 Curso Sistema de Informação na Universidade Federal da Paraíba, fortalecendo minha base teórica e prática.</strong>
+<br><br>
+
+<strong>🛠️ Tenho experiência com HTML, CSS e JavaScript, além de estudar Python e Java para expandir minhas capacidades.</strong>
+<br><br>
+
+<strong>💬 Pode me perguntar sobre desenvolvimento web, estudos de programação, ferramentas de desenvolvimento e sobre como estou estruturando minha evolução na área.</strong>
+<br><br>
+
+<strong>🤖 Tenho grande interesse em tecnologias, automação, produtividade, criação de interfaces e tudo que envolve inovação.</strong>
+<br><br>
+
+<strong>✨ Busco evolução constante — um pouco todos os dias — e valorizo o cuidado, a estética e a perfeição nos meus projetos.</strong>
+<br><br>
+
+<h3 align="center">📬 Reach Me On:</h3>
+
+<p align="center">
+<a href="mailto:seuemail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/seu-usuario">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+</td>
+
+<td width="40%" align="center">
+  <img src="https://i.pinimg.com/736x/31/78/fc/3178fcd57f8452ad6f30cd3b7fe41eee.jpg" width="320" />
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🧰 Minhas Stacks
+<h2 align="center">🧰 Minhas Stacks</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" width="50" alt="html" />
-  <img src="https://skillicons.dev/icons?i=css" width="50" alt="css" />
-  <img src="https://skillicons.dev/icons?i=js" width="50" alt="js" />
-  <img src="https://skillicons.dev/icons?i=python" width="50" alt="python" />
-  <img src="https://skillicons.dev/icons?i=java" width="50" alt="java" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="vscode" />
-  <img src="https://skillicons.dev/icons?i=idea" width="50" alt="intellij" />
+  <img src="https://skillicons.dev/icons?i=html" width="50" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" />
+  <img src="https://skillicons.dev/icons?i=js" width="50" />
+  <img src="https://skillicons.dev/icons?i=python" width="50" />
+  <img src="https://skillicons.dev/icons?i=java" width="50" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" />
+  <img src="https://skillicons.dev/icons?i=idea" width="50" />
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+<h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <div align="center">
 
@@ -58,14 +83,20 @@
 
 ---
 
-## 🌱 O que estou aprendendo no momento
+<h2 align="center">🌱 O que estou aprendendo no momento</h2>
 
-- Aprimorando JavaScript  
-- Praticando responsividade com CSS3  
-- Entendendo lógica de programação em Python  
-- Criando pequenos projetos web para evoluir minhas habilidades  
+<p align="center">
+• Aprimorando JavaScript  
+<br>
+• Praticando responsividade com CSS3  
+<br>
+• Entendendo lógica de programação em Python  
+<br>
+• Criando pequenos projetos web para evoluir minhas habilidades  
+</p>
 
 ---
+
 
 
 
