@@ -12,19 +12,19 @@
 <tr>
 <td width="60%" valign="top">
 
-👨‍💻 Minha jornada como programador começou aos 15 anos com front-end e GameDev.
+👨‍💻 Minha jornada como programador começou aos 15 anos com <strong>front-end</strong> e <strong>GameDev</strong>.
 <br>
-🎓 Atualmente, curso o 4° Período de Sistemas de Informação na UFPB.
+🎓 Atualmente, curso o 4° Período de <strong>Sistemas de Informação</strong> na <strong>UFPB</strong>.
 <br>
-💡 Foco recente em aprimorar minhas habilidades como Desenvolvedor Web.
+💡 Foco recente em aprimorar minhas habilidades como <strong>Desenvolvedor Web</strong>.
 <br><br>
-🎯 Minha meta é atuar na área como Desenvolvedor Full Stack.
+🎯 Minha meta é atuar na área como <strong>Desenvolvedor Full Stack</strong>.
 <br><br>
-🛠️ Tenho experiência com HTML, CSS, JavaScript, Python e Java.
+🛠️ Tenho experiência com <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Python</strong> e <strong>Java</strong>.
 <br>
-🚀 Grande interesse em automação, IA, otimização e design (UX/UI).
+🚀 Grande interesse em <strong>automação</strong>, <strong>IA</strong>, <strong>otimização</strong> e <strong>design (UX/UI)</strong>.
 <br>
-✨ Em cada projeto, procuro aplicar novas tecnologias e conhecimentos.
+✨ Em cada projeto, procuro aplicar <strong>novas tecnologias</strong> e conhecimentos.
 <br><br>
 💬 Estou aberto a perguntas sobre dev web, estudos, ferramentas e minha evolução na área.
 <br><br>
