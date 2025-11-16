@@ -13,7 +13,7 @@
 
       🌅 Comecei minha jornada no desenvolvimento back-end e hoje estou explorando o mundo do desenvolvimento web com entusiasmo.<br><br>
 
-      🌙 Atualmente trabalho como desenvolvedor front-end, criando interfaces enquanto aprimoro minhas habilidades em lógica e boas práticas de programação.<br><br>
+      🌙 Atualmente trabalho como desenvolvedor front-end, criando interfaces enquanto aprimore minhas habilidades em lógica e boas práticas de programação.<br><br>
 
       🎓 Curso Sistema de Informação na Universidade Federal da Paraíba, fortalecendo minha base teórica e prática.<br><br>
 
@@ -29,18 +29,18 @@
       <h3>📬 Reach Me On:</h3>
 
       <a href="mailto:seuemail@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
       </a>
-
-      <a href="https://linkedin.com">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      &nbsp;
+      <a href="https://linkedin.com/in/seu-usuario">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
 
     </td>
 
     <!-- IMAGE RIGHT SIDE -->
     <td width="40%" align="center">
-      <img src="https://i.pinimg.com/736x/31/78/fc/3178fcd57f8452ad6f30cd3b7fe41eee.jpg" width="320" />
+      <img src="https://i.pinimg.com/736x/31/78/fc/3178fcd57f8452ad6f30cd3b7fe41eee.jpg" width="320" alt="dev image" />
     </td>
   </tr>
 </table>
@@ -50,13 +50,13 @@
 ## 🧰 Minhas Stacks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" width="50" />
-  <img src="https://skillicons.dev/icons?i=css" width="50" />
-  <img src="https://skillicons.dev/icons?i=js" width="50" />
-  <img src="https://skillicons.dev/icons?i=python" width="50" />
-  <img src="https://skillicons.dev/icons?i=java" width="50" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="50" />
-  <img src="https://skillicons.dev/icons?i=idea" width="50" />
+  <img src="https://skillicons.dev/icons?i=html" width="50" alt="html" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" alt="css" />
+  <img src="https://skillicons.dev/icons?i=js" width="50" alt="js" />
+  <img src="https://skillicons.dev/icons?i=python" width="50" alt="python" />
+  <img src="https://skillicons.dev/icons?i=java" width="50" alt="java" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="vscode" />
+  <img src="https://skillicons.dev/icons?i=idea" width="50" alt="intellij" />
 </p>
 
 ---
@@ -81,5 +81,6 @@
 - Criando pequenos projetos web para evoluir minhas habilidades  
 
 ---
+
 
 
