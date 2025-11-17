@@ -53,7 +53,7 @@
 
 ---
 
-<h2 align="center">🧰 Ferramentas & Tecnologias Que Eu Faço Uso</h2>
+<h2 align="center">🧰 Ferramentas & Tecnologias Que Eu Uso</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" width="50" />
