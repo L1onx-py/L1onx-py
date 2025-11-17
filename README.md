@@ -5,7 +5,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/glowing-star_1f31f.png" width="22" /> Sobre mim
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/glowing-star_1f31f.png" width="22" /> Sobre Mim
 </h2>
 
 <table>
