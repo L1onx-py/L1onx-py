@@ -45,8 +45,11 @@
 
 <div align="center">
 
+  <!-- Linha superior -->
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=L1onx-py&show_icons=true&theme=tokyonight&hide_border=false" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=L1onx-py&theme=tokyonight&hide_border=false" />
+
+  <!-- Linha inferior: colada, sem br -->
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1onx-py&layout=compact&theme=tokyonight&hide_border=false" style="display:block; margin-top: -5px;" />
 
 </div>
