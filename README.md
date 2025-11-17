@@ -11,9 +11,10 @@
 <table>
 <tr>
 <td width="60%" valign="top" style="line-height: 1.6; font-size: 15px;">
-
+  
+<br><br>
 👨‍💻 Minha jornada como programador começou aos 15 anos com <strong>front-end</strong> e <strong>GameDev</strong>.
-<br>
+<br><br>
 🎓 Atualmente, curso o 4° Período de <strong>Sistemas de Informação</strong> na <strong>UFPB</strong>.
 <br>
 💡 Foco recente em aprimorar minhas habilidades como <strong>Desenvolvedor Web</strong>.
