@@ -80,9 +80,12 @@
 <td align="center" width="400">
 
 <blockquote>
-<h3>✨ Citação Dev</h3>
-<p><strong>“A vida está nas mãos de quem tem coragem de sonhar.”</strong></p>
-<p><em>— Paulo Coelho</em></p>
+<h3>✨ Citação Motivacional</h3>
+<p><strong>“Erga essa cabeça, mete o pé e vai na fé
+Manda essa tristeza embora
+Basta acreditar que um novo dia vai raiar
+Sua hora vai chegar...”</strong></p>
+<p><em>— Grupo Revelação</em></p>
 </blockquote>
 
 </td>
