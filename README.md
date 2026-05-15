@@ -8,11 +8,11 @@
 
 👨‍💻 Minha jornada como programador começou aos 15 anos com <strong>front-end</strong> e <strong>GameDev</strong>.
 <br><br>
-🎓 Atualmente, curso o 4° Período de <strong>Sistemas de Informação</strong> na <strong>UFPB</strong>.
+🎓 Atualmente, curso o 5° Período de <strong>Sistemas de Informação</strong> na <strong>UFPB</strong>.
 <br><br>
-💡 Foco recente em aprimorar minhas habilidades como <strong>Desenvolvedor Web</strong>.
+💡 Foco recente em aprimorar minhas habilidades como <strong>Analista de Dados </strong>.
 <br>
-🎯 Minha meta é atuar na área como <strong>Desenvolvedor Full Stack</strong>.
+🎯 Minha meta é atuar na área como <strong>Data Analytics</strong>.
 <br><br>
 🛠️ Tenho experiência com <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Python</strong> e <strong>Java</strong>.
 <br><br>
@@ -20,7 +20,7 @@
 <br>
 ✨ Em cada projeto, procuro aplicar <strong>novas tecnologias</strong> e conhecimentos.
 <br><br>
-💬 Estou aberto a perguntas sobre dev web, estudos, ferramentas e minha evolução na área.
+💬 Estou aberto a perguntas e conversas sobre analise de dados, estudos, ferramentas e minha evolução na área.
 <br><br>
 
 <h3 align="center">📬 Entre em Contato Comigo:</h3> <p align="center"> 
