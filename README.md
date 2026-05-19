@@ -14,7 +14,7 @@
 <br>
 🎯 Minha meta é atuar na área como <strong>Data Analytics</strong>.
 <br><br>
-🛠️ Tenho experiência com <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Python</strong> e <strong>Java</strong>.
+🛠️ Tenho experiência com <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Python</strong>, <strong>Java</strong> e <strong>Bi</strong>.
 <br><br>
 🚀 Grande interesse em <strong>automação</strong>, <strong>IA</strong>, <strong>otimização</strong> e <strong>design (UX/UI)</strong>.
 <br>
