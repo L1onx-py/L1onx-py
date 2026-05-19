@@ -40,6 +40,7 @@
   <img src="https://skillicons.dev/icons?i=java" width="50" /> 
   <img src="https://skillicons.dev/icons?i=vscode" width="50" /> 
   <img src="https://skillicons.dev/icons?i=idea" width="50" /> </p>
+  <img alt="PowerBi" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg">
 
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
