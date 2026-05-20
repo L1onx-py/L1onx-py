@@ -20,8 +20,6 @@ Tenho interesse em transformar dados em insights úteis, automatizar tarefas rep
 
 <h2 align="left">🛠️ Tecnologias & Ferramentas</h2>
 
-<h2 align="left">🛠️ Tecnologias & Ferramentas</h2>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" width="55" />
   
