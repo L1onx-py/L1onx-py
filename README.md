@@ -3,7 +3,9 @@
 # 👋 Olá, eu sou o Elion Camilo
 
 🎓 Estudante de Sistemas de Informação na UFPB
+
 📊 Focado em Análise de Dados, Automação e Inteligência Artificial aplicada
+
 🐍 Desenvolvendo projetos com Python, SQL e Power BI
 
 ---
