@@ -40,6 +40,42 @@ Tenho interesse em transformar dados em insights úteis, automatizar tarefas rep
     width="55"
   />
 
+  <img 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytest.png" 
+    alt="Pytest" 
+    width="55"
+  />
+
+  <img 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" 
+    alt="Java" 
+    width="55"
+  />
+
+  <img 
+    src="https://skillicons.dev/icons?i=git" 
+    alt="Git"
+    width="55"
+  />
+
+  <img 
+    src="https://skillicons.dev/icons?i=vscode" 
+    alt="VSCode"
+    width="55"
+  />
+
+  <img 
+    src="https://skillicons.dev/icons?i=idea" 
+    alt="IntelliJ"
+    width="55"
+  />
+
+  <img 
+    src="https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/main/PNG/Power-BI.png"
+    alt="Power BI"
+    width="55"
+  />
+
 </p>
 
 ---
