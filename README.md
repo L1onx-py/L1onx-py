@@ -18,13 +18,29 @@ Tenho interesse em transformar dados em insights úteis, automatizar tarefas rep
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+<h2 align="left">🛠️ Tecnologias & Ferramentas</h2>
 
-* Python
-* SQL / PostgreSQL
-* Power BI
-* Java
-* Git & GitHub
+<p align="left">
+
+  <img 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" 
+    alt="Python" 
+    width="55"
+  />
+
+  <img 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" 
+    alt="PostgreSQL" 
+    width="55"
+  />
+
+  <img 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" 
+    alt="NumPy" 
+    width="55"
+  />
+
+</p>
 
 ---
 
