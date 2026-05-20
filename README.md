@@ -47,7 +47,7 @@ Tenho interesse em transformar dados em insights úteis, automatizar tarefas rep
 
 ## 📫 Contato
 
-* LinkedIn: [www.linkedin.com/in/elion-camilo](http://www.linkedin.com/in/elion-camilo)
+* LinkedIn: [www.linkedin.com/in/elion-camilo](https://www.linkedin.com/in/elion-camilo-13332632b/)
 * Email: [juniorelion.rj@gmail.com](mailto:juniorelion.rj@gmail.com)
 
 
