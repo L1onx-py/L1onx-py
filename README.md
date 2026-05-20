@@ -20,7 +20,9 @@ Tenho interesse em transformar dados em insights úteis, automatizar tarefas rep
 
 <h2 align="left">🛠️ Tecnologias & Ferramentas</h2>
 
-<p align="left">
+<h2 align="left">🛠️ Tecnologias & Ferramentas</h2>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" width="55" />
   
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" width="55" />
@@ -39,7 +41,6 @@ Tenho interesse em transformar dados em insights úteis, automatizar tarefas rep
   
   <img src="https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/main/PNG/Power-BI.png" alt="Power BI" width="55" />
 </p>
-
 ---
 
 ## 📚 Atualmente estudando
