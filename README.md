@@ -41,6 +41,7 @@ Tenho interesse em transformar dados em insights úteis, automatizar tarefas rep
   
   <img src="https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/main/PNG/Power-BI.png" alt="Power BI" width="55" />
 </p>
+
 ---
 
 ## 📚 Atualmente estudando
